@@ -11,7 +11,7 @@ Fork the ISO repo, tweak packages, fix Cnchi, open a PR. All GPL-2.0.
 **👩‍💻 Resources**
 
 - [Antergos-NeXT-ISO](https://github.com/Antergos-NeXT/Antergos-NeXT-ISO) — build your own ISO
-- [Cnchi](https://github.com/Antergos/Cnchi) — the installer (upstream)
+- [Cnchi](https://github.com/Antergos-NeXT/Cnchi) — the installer (our fork)
 
 **🍿 Fun fact**
 
