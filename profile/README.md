@@ -18,4 +18,4 @@ Fork the ISO repo, tweak packages, fix Cnchi, open a PR. All GPL-2.0.
 This project was formerly Antergos NeXT, rebranded to Pulsar per the original developer's request.
 
 ## Community
-Join us on Matrix: [#pulsar:matrix.org](https://matrix.to/#/%23pulsar:matrix.org)
+Join us on Matrix: wait wrong link oopsie lol lemme find the link before smth bad happens-
