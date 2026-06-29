@@ -37,4 +37,4 @@ I renamed it, then renamed it back. Open-source chaos at its finest.
 ### 🪦 Community
 
 There is no community. Pulsar is a graveyard. (Well there is but why link it here) 
-If you want something alive, go to **Antergos NeXT** instead.
+If you want something alive, go to [Antergos-NeXT](https://github.com/Antergos-NeXT/antergos-iso) instead.
